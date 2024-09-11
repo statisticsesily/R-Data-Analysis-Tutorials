@@ -6,13 +6,8 @@ This repository contains a collection of tutorials designed to make learning sta
 1. Introduction to R/Python for Data Analysis
 2. Descriptive Statistics
 3. Hypothesis Testing
-4. Regression Analysis
-5. Data Visualization
-6. ANOVA and T-tests
-7. Chi-Square and Fisher’s Exact Test
-8. Logistic Regression
-9. Time Series Analysis
-10. Statistical Modeling
+4. Data Visualization
+5. ANOVA and T-tests
 
 All tutorials include explanations, code examples, and datasets to practice.
 
